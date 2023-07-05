@@ -1,0 +1,26 @@
+
+1 - Speak() :- To Speak in hindi /english
+2 - TakeCommand() :- Which takes command in Hindi and english
+
+3 - Advance Features :-
+    i. - YouTubeSearch():- search on yt and play first result
+    ii. - GoogleSearch():- search on google and speak the summary for YouTubeSearch
+   
+4 - Advance Features :-
+    i. Alarm
+    ii. YouTube Video Downloader
+    iii. Network(Internet) Speed Tracker
+5 - Maths- calculator -,+,*,/,%   (TODO : power **)
+
+6- Automation
+    i. WhatsApp Automation- Call , Send Msg, : TODO: open chat calll video
+    ii. Google Crome Automation - search and tell the summary
+    iii. YouTube Automation
+    
+7. NASA & Space News - by giving date separent by "and"
+
+8. Google Map Automation
+
+9. ChatBot - Talk with us
+
+10. GUI for Jarvis
